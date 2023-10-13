@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <link rel="preload" href="/scene-2.json" as="fetch">
 </head>
 <link rel="shortcut icon" href="#">
 <style>
@@ -61,9 +62,11 @@
             <tr>
                 <td>Scene</td>
                 <td><input type="file" id="scene" accept="application/json" onchange="window.handleFile(this)" checked></td>
+                <!-- <td><input type="file" id="scene" accept="application/json" onchange="window.handleFile('scene-2.json')" checked></td> -->
             </tr>
         </table>
         <button onclick="window.renderScene(this)">Render scene</button>
+        <!-- <button onclick="window.renderScene(window.handleFile('scene-2.json'))">Render scene</button> -->
     </div>
 </body>
 </html>
