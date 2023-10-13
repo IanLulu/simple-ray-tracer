@@ -1,6 +1,9 @@
-# CS425 - Computer Graphics I (Spring 2022)
+# [Demo here](https://nailxiv.neocities.org/simple-ray-tracer)
+\*\* **Note:** need to **[download `scene-2.json`]()** for web app to work \*\*
 
-## Assignment 3: Ray tracing
+## CS425 - Computer Graphics I (Spring 2022)
+
+### Assignment 3: Ray tracing
 The goal of this assignment is to implement a simple ray tracer using JavaScript. You will develop an application to ray trace a scene described in an external JSON (uploaded by the user through a configuration panel). The JSON file contains camera attributes (position, fov, direction), objects in the scene (spheres or planes), as well as the position of light sources.
 
 There are four tasks, and you are free to use the skeleton code provided. The code has some comments detailing what needs to be implemented in each function; it also contains functions to handle file upload, and user interactions through the control panel. There are three main classes:
