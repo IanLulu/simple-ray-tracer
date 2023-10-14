@@ -3,7 +3,7 @@
 
 **Steps:**
 
-1. After downloading `scene-2.json`, open [demo](https://nailxiv.neocities.org/simple-ray-tracer)
+1. After downloading `scene-2.json`, open [demo](https://nailxiv.neocities.org/srt)
 2. Next to "Scene", click on the "Browse..." button and load in `scene-2.json` from your downloads
 3. Click on the "Render scene" button
 4. Feel free to play around with the settings of the rendered scene
