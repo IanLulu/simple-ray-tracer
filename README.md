@@ -1,9 +1,9 @@
-# [Demo here](https://nailxiv.neocities.org/srt)
-\*\* ***Note:*** need to **[download `scene-2.json`](https://github.com/IanLulu/simple-ray-tracer/blob/master/scene-2.json#:~:text=Raw%20file%20content-,Download,-%E2%8C%98)** for web app to work \*\*
+# <a href="https://nailxiv.neocities.org/srt" target="_blank">Demo here</a>
+\*\* ***Note:*** need to **<a href="https://github.com/IanLulu/simple-ray-tracer/blob/master/scene-2.json#:~:text=Raw%20file%20content-,Download,-%E2%8C%98" target="_blank">download `scene-2.json`</a>** for web app to work \*\*
 
 **Steps:**
 
-1. After downloading `scene-2.json`, open [demo](https://nailxiv.neocities.org/srt)
+1. After downloading `scene-2.json`, open <a href="https://nailxiv.neocities.org/srt" target="_blank">demo</a>
 2. Next to "Scene", click on the "Browse..." button and load in `scene-2.json` from your downloads
 3. Click on the "Render scene" button
 4. Feel free to play around with the settings of the rendered scene
