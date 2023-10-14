@@ -1,5 +1,16 @@
-# [Demo here](https://nailxiv.neocities.org/simple-ray-tracer)
-\*\* **Note:** need to **[download `scene-2.json`]()** for web app to work \*\*
+# [Demo here](https://nailxiv.neocities.org/srt)
+\*\* ***Note:*** need to **[download `scene-2.json`](https://github.com/IanLulu/simple-ray-tracer/blob/master/scene-2.json#:~:text=Raw%20file%20content-,Download,-%E2%8C%98)** for web app to work \*\*
+
+**Steps:**
+
+1. After downloading `scene-2.json`, open [demo](https://nailxiv.neocities.org/simple-ray-tracer)
+2. Next to "Scene", click on the "Browse..." button and load in `scene-2.json` from your downloads
+3. Click on the "Render scene" button
+4. Feel free to play around with the settings of the rendered scene
+
+
+***
+
 
 ## CS425 - Computer Graphics I (Spring 2022)
 
